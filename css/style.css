@@ -94,6 +94,7 @@ img, video, audio {
   float: left;
   width: 66%;
   background: grey;
+  position: relative;
 }
 
 .col-3 {
